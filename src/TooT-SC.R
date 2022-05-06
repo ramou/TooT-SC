@@ -84,7 +84,7 @@ for(i in args){
          "-help"={
            cat("TooTSC v1.1 (Apr. 2022)\n")
            cat("\n")
-           cat("Usage: TooTSC -query=<input> [-out=<outdir>] [-db=<database path>] [-work=<work path>] [-TooTSC=<TooTSCdir>]\n")
+           cat("Usage: TooT-SC.R -query=<input> [-out=<outdir>] [-db=<database path>] [-work=<work path>] [-TooTSC=<TooTSCdir>]\n")
            cat("\n")
            cat("\t<input> is your sequence input file in fasta format\n")
            cat("\t<out> is the output directory where you want the predicted results, formatted as csv\n")
