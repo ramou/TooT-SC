@@ -92,7 +92,7 @@ for(i in args){
            cat("\t<database path> is the path to the database\n")
            cat("\t\t<database path> defaults to '",db,"'\n", sep="")
            cat("\t<work path> is the path to the working directory for intermediate files. It will be created as needed.\n")
-           cat("\t\t<database path> defaults to '.' ('",work,"')\n", sep="")
+           cat("\t\t<work path> defaults to '.' ('",work,"')\n", sep="")
            cat("\t<TooTSCdir> is the directory where the base TooT-SC files are located\n")
            cat("\t\t<TooTSCdir> defaults to '",TooTSCdir,"'\n", sep="")
            cat("\n")
